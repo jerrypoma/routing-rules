@@ -20,8 +20,4 @@ Netflix: in case you watch Netflix.
 
 AdBlock: This is a combination of “Hijacking” and “AdBlock”, since you have to reject them all.
 
-BTW, you know what? add 
-
-SRC-PORT,[YOUR BT PORT],DIRECT
-
-to the rules to avoid BT software using proxy.
+BTW, you know what? add [- SRC-PORT,[YOUR-BT-PORT],DIRECT] to the rules to avoid BT software using proxy.
