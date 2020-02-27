@@ -8,11 +8,11 @@ Apple: for Apple, DIRECT is recommended, choose PROXY if you would like to.
 
 NeteaseMusic: for NeteaseMusic, DIRECT is recommended.
 
-PROXY: All websites except for Japan, Telegram, Speedtest and Netflix groups.
+PROXY: All websites except for those belong to Japan, Telegram, Speedtest and Netflix groups.
 
 Japan: includes DMM, Niconico, Github and others.
 
-Telegram: especially for this IM. Singapore nodes are recommended.
+Telegram: Choose nodes for Telegram. Singapore nodes are recommended.
 
 Speedtest: includes Speedtest.net and Fast.com. Test whatever nodes you want to.
 
@@ -20,4 +20,4 @@ Netflix: in case you watch Netflix.
 
 AdBlock: This is a combination of “Hijacking” and “AdBlock”, since you have to reject them all.
 
-BTW, you know what? add [- SRC-PORT,[YOUR-BT-PORT],DIRECT] to the rules to avoid BT software using proxy.
+BTW, you know what? add "- SRC-PORT,[YOUR-BT-PORT],DIRECT" to the rules to avoid BT software using proxy.
