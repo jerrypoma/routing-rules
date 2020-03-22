@@ -8996,7 +8996,7 @@
   - DOMAIN-SUFFIX,softfamous.com,PROXY
   - DOMAIN-SUFFIX,ssrcloud.org,PROXY
   - DOMAIN-SUFFIX,startpage.com,PROXY
-  - DOMAIN-SUFFIX,steamcommunity.com,PROXY
+  - DOMAIN-SUFFIX,steamcommunity.com,DIRECT
   - DOMAIN-SUFFIX,steemit.com,PROXY
   - DOMAIN-SUFFIX,steemitwallet.com,PROXY
   - DOMAIN-SUFFIX,t66y.com,PROXY
@@ -9227,8 +9227,8 @@
   - DOMAIN-SUFFIX,wolframalpha.com,PROXY
   - DOMAIN-SUFFIX,x-art.com,PROXY
   - DOMAIN-SUFFIX,yimg.com,PROXY
-  - DOMAIN,api.steampowered.com,PROXY
-  - DOMAIN,store.steampowered.com,PROXY
+  - DOMAIN,api.steampowered.com,DIRECT
+  - DOMAIN,store.steampowered.com,DIRECT
   - DOMAIN-SUFFIX,edgedatg.com,PROXY
   - DOMAIN-SUFFIX,hayabusa.io,PROXY
   - DOMAIN-SUFFIX,amazonaws.com,PROXY
@@ -9822,8 +9822,8 @@
   - DOMAIN-SUFFIX,qy.net,DIRECT
   - DOMAIN-SUFFIX,api.mob.app.letv.com,DIRECT
   - DOMAIN-SUFFIX,vv.video.qq.com,DIRECT
-  - DOMAIN-SUFFIX,steampowered.com,PROXY
-  - DOMAIN-SUFFIX,steamstatic.com,PROXY
+  - DOMAIN-SUFFIX,steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,steamstatic.com,DIRECT
   - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
   - DOMAIN,mtalk.google.com,DIRECT
   - DOMAIN-SUFFIX,qhres.com,DIRECT
