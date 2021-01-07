@@ -1,9 +1,8 @@
 payload:
   - PROCESS-NAME,news
-  - USER-AGENT,AppleNews*
-  - USER-AGENT,com.apple.news*
+  - USER-AGENT,AppleNews
   - DOMAIN,gspe1-ssl.ls.apple.com
-  - USER-AGENT,News*
+  - USER-AGENT,News
   - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,gateway.icloud.com
   - DOMAIN-SUFFIX,news-client.apple.com
