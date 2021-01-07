@@ -1,4 +1,4 @@
-PAYLOAD:
+payload:
   - PROCESS-NAME,news
   - USER-AGENT,AppleNews*
   - USER-AGENT,com.apple.news*
